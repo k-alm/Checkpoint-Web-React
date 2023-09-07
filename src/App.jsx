@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div>
-        Hello World
+        Hello World - Teste Auto Deploy
       </div>
     </>
   )
