@@ -1,6 +1,6 @@
 import "./VisualizarArapelhos.css"
 
-const VisualizarArapelhos = () => {
+export default function VisualizarArapelhos(){
     return (
 
     );

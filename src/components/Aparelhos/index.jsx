@@ -1,7 +1,7 @@
 import "./Aparelhos.css"
 
-const Aparelhos = () => {
+export default function Aparelhos(){
     return (
-
+        
     );
 }
